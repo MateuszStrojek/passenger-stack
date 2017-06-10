@@ -1,0 +1,6 @@
+C:\Users\bOsS\Source\Repos\Passenger\Passenger.Core\bin\Debug\netstandard1.6\Passenger.Core.deps.json
+C:\Users\bOsS\Source\Repos\Passenger\Passenger.Core\bin\Debug\netstandard1.6\Passenger.Core.dll
+C:\Users\bOsS\Source\Repos\Passenger\Passenger.Core\bin\Debug\netstandard1.6\Passenger.Core.pdb
+C:\Users\bOsS\Source\Repos\Passenger\Passenger.Core\obj\Debug\netstandard1.6\Passenger.Core.AssemblyInfo.cs
+C:\Users\bOsS\Source\Repos\Passenger\Passenger.Core\obj\Debug\netstandard1.6\Passenger.Core.dll
+C:\Users\bOsS\Source\Repos\Passenger\Passenger.Core\obj\Debug\netstandard1.6\Passenger.Core.pdb

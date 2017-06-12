@@ -10468,22 +10468,22 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Api\\Passenger.Api.csproj",
+      "projectUniqueName": "c:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Api\\Passenger.Api.csproj",
       "projectName": "Passenger.Api",
-      "projectPath": "C:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Api\\Passenger.Api.csproj",
-      "outputPath": "C:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Api\\obj\\",
+      "projectPath": "c:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Api\\Passenger.Api.csproj",
+      "outputPath": "c:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Api\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/Passenger.Api.dll": "C:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Api\\bin\\placeholder\\netcoreapp1.1\\Passenger.Api.dll"
+        "lib/netcoreapp1.1/Passenger.Api.dll": "c:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Api\\bin\\placeholder\\netcoreapp1.1\\Passenger.Api.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj"
+            "c:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj": {
+              "projectPath": "c:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj"
             }
           }
         }

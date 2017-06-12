@@ -7620,22 +7620,22 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj",
+      "projectUniqueName": "c:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj",
       "projectName": "Passenger.Infrastructure",
-      "projectPath": "C:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj",
-      "outputPath": "C:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Infrastructure\\obj\\",
+      "projectPath": "c:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj",
+      "outputPath": "c:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netstandard1.6"
       ],
       "files": {
-        "lib/netstandard1.6/Passenger.Infrastructure.dll": "C:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Infrastructure\\bin\\placeholder\\netstandard1.6\\Passenger.Infrastructure.dll"
+        "lib/netstandard1.6/Passenger.Infrastructure.dll": "c:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Infrastructure\\bin\\placeholder\\netstandard1.6\\Passenger.Infrastructure.dll"
       },
       "frameworks": {
         "netstandard1.6": {
           "projectReferences": {
-            "C:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Core\\Passenger.Core.csproj": {
-              "projectPath": "C:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Core\\Passenger.Core.csproj"
+            "c:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Core\\Passenger.Core.csproj": {
+              "projectPath": "c:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Core\\Passenger.Core.csproj"
             }
           }
         }

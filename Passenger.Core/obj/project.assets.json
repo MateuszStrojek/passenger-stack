@@ -4333,16 +4333,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Core\\Passenger.Core.csproj",
+      "projectUniqueName": "c:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Core\\Passenger.Core.csproj",
       "projectName": "Passenger.Core",
-      "projectPath": "C:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Core\\Passenger.Core.csproj",
-      "outputPath": "C:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Core\\obj\\",
+      "projectPath": "c:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Core\\Passenger.Core.csproj",
+      "outputPath": "c:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Core\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netstandard1.6"
       ],
       "files": {
-        "lib/netstandard1.6/Passenger.Core.dll": "C:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Core\\bin\\placeholder\\netstandard1.6\\Passenger.Core.dll"
+        "lib/netstandard1.6/Passenger.Core.dll": "c:\\Users\\bOsS\\Source\\Repos\\Passenger\\Passenger.Core\\bin\\placeholder\\netstandard1.6\\Passenger.Core.dll"
       },
       "frameworks": {
         "netstandard1.6": {

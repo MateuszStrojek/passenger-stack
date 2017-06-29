@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Passenger.Infrastructure.Commands.Users;
 using Passenger.Infrastructure.DTO;
 using Passenger.Infrastructure.Services;
 
@@ -18,9 +19,21 @@ namespace Passenger.Api.Controllers
         }
 
         [HttpGet("{email}")]
-        public UserDto Get(string email)
+        public async Task<IActionResult> Get(string email)
         {
-            return _userService.Get(email);
+            var user = await _userService.GetAsync(email);
+            if(user==null){
+                return NotFound();
+            }
+            return Json(user);
+        }
+
+        [HttpPost("")]
+        public async Task<IActionResult> Post([FromBody]CreateUser request)
+        {
+            await _userService.RegisterAsync(request.Email, request.Username, request.Passowrd);
+
+            return Created($"user/{request.Email}", new object());
         }
     }
 }

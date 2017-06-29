@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v1.1",
-    "signature": "91e4fe13abe1af70c12e32c97ac58733ed9e06a5"
+    "signature": "635dfaf05ead67615da419809dc4e148f4c7ec96"
   },
   "compilationOptions": {
     "defines": [
@@ -383,7 +383,7 @@
         "dependencies": {
           "Microsoft.CSharp": "4.3.0",
           "NETStandard.Library": "1.6.1",
-          "Newtonsoft.Json": "10.0.1",
+          "Newtonsoft.Json": "10.0.3",
           "System.Reflection.TypeExtensions": "4.3.0"
         },
         "runtime": {
@@ -591,7 +591,7 @@
           "Microsoft.AspNetCore.Mvc.Formatters.Json": "1.1.2",
           "Microsoft.Extensions.WebEncoders": "1.1.1",
           "NETStandard.Library": "1.6.1",
-          "Newtonsoft.Json": "10.0.1",
+          "Newtonsoft.Json": "10.0.3",
           "System.Buffers": "4.3.0",
           "System.Runtime.Serialization.Primitives": "4.3.0"
         },
@@ -844,7 +844,7 @@
           "Microsoft.Extensions.Configuration": "1.1.1",
           "Microsoft.Extensions.Configuration.FileExtensions": "1.1.1",
           "NETStandard.Library": "1.6.1",
-          "Newtonsoft.Json": "10.0.1",
+          "Newtonsoft.Json": "10.0.3",
           "System.Dynamic.Runtime": "4.3.0",
           "System.Runtime.Serialization.Primitives": "4.3.0"
         },
@@ -882,7 +882,7 @@
       "microsoft.extensions.dependencymodel/1.1.1": {
         "dependencies": {
           "Microsoft.DotNet.PlatformAbstractions": "1.1.1",
-          "Newtonsoft.Json": "10.0.1",
+          "Newtonsoft.Json": "10.0.3",
           "System.Diagnostics.Debug": "4.3.0",
           "System.Dynamic.Runtime": "4.3.0",
           "System.Linq": "4.3.0"
@@ -1152,7 +1152,7 @@
       "microsoft.identitymodel.tokens/5.1.2": {
         "dependencies": {
           "Microsoft.IdentityModel.Logging": "1.1.2",
-          "Newtonsoft.Json": "10.0.1",
+          "Newtonsoft.Json": "10.0.3",
           "System.Collections": "4.3.0",
           "System.Diagnostics.Tools": "4.3.0",
           "System.Runtime": "4.3.0",
@@ -1188,33 +1188,13 @@
           "lib/netstandard1.1/Microsoft.Net.Http.Headers.dll": {}
         }
       },
-      "newtonsoft.json/10.0.1": {
+      "newtonsoft.json/10.0.3": {
         "dependencies": {
           "Microsoft.CSharp": "4.3.0",
-          "System.Collections": "4.3.0",
+          "NETStandard.Library": "1.6.1",
           "System.ComponentModel.TypeConverter": "4.3.0",
-          "System.Diagnostics.Debug": "4.3.0",
-          "System.Dynamic.Runtime": "4.3.0",
-          "System.Globalization": "4.3.0",
-          "System.IO": "4.3.0",
-          "System.Linq": "4.3.0",
-          "System.Linq.Expressions": "4.3.0",
-          "System.ObjectModel": "4.3.0",
-          "System.Reflection": "4.3.0",
-          "System.Reflection.Extensions": "4.3.0",
-          "System.Resources.ResourceManager": "4.3.0",
-          "System.Runtime": "4.3.0",
-          "System.Runtime.Extensions": "4.3.0",
-          "System.Runtime.Numerics": "4.3.0",
           "System.Runtime.Serialization.Formatters": "4.3.0",
           "System.Runtime.Serialization.Primitives": "4.3.0",
-          "System.Text.Encoding": "4.3.0",
-          "System.Text.Encoding.Extensions": "4.3.0",
-          "System.Text.RegularExpressions": "4.3.0",
-          "System.Threading": "4.3.0",
-          "System.Threading.Tasks": "4.3.0",
-          "System.Xml.ReaderWriter": "4.3.0",
-          "System.Xml.XDocument": "4.3.0",
           "System.Xml.XmlDocument": "4.3.0"
         },
         "runtime": {
@@ -1642,7 +1622,7 @@
           "Microsoft.Extensions.Configuration.Binder": "1.1.1",
           "NETStandard.Library": "1.6.1",
           "NLog.Extensions.Logging": "1.0.0-rtm-beta5",
-          "Newtonsoft.Json": "10.0.1",
+          "Newtonsoft.Json": "10.0.3",
           "Passenger.Core": "1.0.0"
         },
         "runtime": {
@@ -3853,12 +3833,12 @@
       "path": "microsoft.net.http.headers/1.1.1",
       "hashPath": "microsoft.net.http.headers.1.1.1.nupkg.sha512"
     },
-    "newtonsoft.json/10.0.1": {
+    "newtonsoft.json/10.0.3": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ebWzW9j2nwxQeBo59As2TYn7nYr9BHicqqCwHOD1Vdo+50HBtLPuqdiCYJcLdTRknpYis/DSEOQz5KmZxwrIAg==",
-      "path": "newtonsoft.json/10.0.1",
-      "hashPath": "newtonsoft.json.10.0.1.nupkg.sha512"
+      "sha512": "sha512-wBM7i7i3U2WX0ecor4zdVGvgrwFUjuigBoHKiL+nH39fCOpCPjBY3RDqJM32edvdyTAVdjzlccHsg41+/+zpSA==",
+      "path": "newtonsoft.json/10.0.3",
+      "hashPath": "newtonsoft.json.10.0.3.nupkg.sha512"
     },
     "nlog/5.0.0-beta07": {
       "type": "package",

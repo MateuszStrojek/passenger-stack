@@ -12,6 +12,7 @@
     <None Update="wwwroot\**\*" CopyToOutputDirectory="PreserveNewest" />
   </ItemGroup>
   <ItemGroup>
+  <Content Update="appsettings.json" CopyToOutputDirectory="PreserveNewest" />
     <None Update="nlog.config">
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </None>
